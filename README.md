@@ -9,7 +9,8 @@
 - JavaScript / TypeScript
 - Node.js / Python
 - React / Next.js
-- Docker / Git / CI-CD
+- Git / CI-CD
+- SAP MII / SAPUI5
 
 ### 🚀 What You'll Find Here:
 - ⚙️ Personal dev tools & experiments
@@ -21,4 +22,4 @@
 ---
 
 📫 Contact: [LinkedIn](https://www.linkedin.com/in/gabrielegosso)
-<!-- 🌐 Website: [optional portfolio or gg-software.dev] -->
+🌐 Website: [ggsoftware](https://ggsoftware.vercel.app/)
